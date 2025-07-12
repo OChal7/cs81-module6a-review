@@ -1,3 +1,5 @@
+// URL https://github.com/OChal7
+
 
 // Creates new empty playlist 
 function Playlist(name) {
